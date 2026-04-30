@@ -1,0 +1,5 @@
+load_from:
+  - python_file:
+      relative_path: src/dashboard/app.py
+  
+  - python_module: src.pipeline.definitions
